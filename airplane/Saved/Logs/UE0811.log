@@ -1504,3 +1504,457 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.17-01.38.39:696][383]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2023.08.17-01.38.41:519][389]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
 [2023.08.17-01.38.41:696][389]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.43:536][395]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.43:696][395]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.45:556][401]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.45:696][401]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.47:476][407]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.47:698][407]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.49:493][413]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.49:697][413]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.51:510][419]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.51:698][419]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.53:526][425]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.53:699][425]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.55:543][431]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.55:699][431]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.57:559][437]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.57:698][437]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.38.59:476][443]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.38.59:698][443]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.01:496][449]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.01:699][449]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.03:515][455]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.03:699][455]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.05:534][461]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.05:698][461]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.07:552][467]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.07:698][467]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.09:569][473]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.09:699][473]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.11:487][550]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.11:495][550]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.13:507][775]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.13:515][775]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.15:526][993]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.15:533][993]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.17:545][211]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.17:552][211]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.19:564][420]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.19:571][420]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.20:888][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.17-01.39.20:894][578]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.17-01.39.20:896][578]LogPlayLevel: [PlayLevel] Compiling BP_P38 before play...
+[2023.08.17-01.39.20:960][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.08.17-01.39.20:961][578]LogPlayLevel: PlayLevel: Blueprint regeneration took 66 ms (1 blueprints)
+[2023.08.17-01.39.20:961][578]PIE: New page: PIE session: MyMap (Aug 17, 2023, 7:39:20 PM)
+[2023.08.17-01.39.20:962][578]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MyMap
+[2023.08.17-01.39.20:964][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2023.08.17-01.39.20:964][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MyMap.MyMap to /Game/Map/UEDPIE_0_MyMap.MyMap (0.001650s)
+[2023.08.17-01.39.20:964][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.17-01.39.20:964][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.17-01.39.20:964][578]LogAIModule: Creating AISystem for world MyMap
+[2023.08.17-01.39.20:964][578]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2023.08.17-01.39.20:984][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.08.17-01.39.20:985][578]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.08.17-01.39.20:985][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.17-01.39.20:985][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.17-01.39.20:985][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.17-01.39.20:985][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.17-01.39.20:985][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.17-01.39.20:985][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.17-01.39.20:985][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.17-01.39.20:985][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.17-01.39.20:986][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.17-01.39.20:986][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.17-01.39.20:986][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.17-01.39.20:987][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.17-01.39.21:017][578]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.08.17-01.39.21:017][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.17-01.39.21:017][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.17-01.39.21:017][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.17-01.39.21:017][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.08.17-01.39.21:017][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.08.17-01.39.21:020][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.08.17-01.39.21:020][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.08.17-01.39.21:020][578]LogInit: FAudioDevice initialized with ID 4.
+[2023.08.17-01.39.21:020][578]LogAudio: Display: Audio Device (ID: 4) registered with world 'MyMap'.
+[2023.08.17-01.39.21:020][578]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.17-01.39.21:091][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.17-01.39.21:091][578]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.08.17-01.39.21:092][578]LogWorld: Bringing World /Game/Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2023.08.17-10.39.21
+[2023.08.17-01.39.21:092][578]LogWorld: Bringing up level for play took: 0.000676
+[2023.08.17-01.39.21:094][578]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.08.17-01.39.21:096][578]PIE: Server logged in
+[2023.08.17-01.39.21:097][578]PIE: Play in editor total start time 0.203 seconds.
+[2023.08.17-01.39.21:143][578]LogViewport: Scene viewport resized to 1356x980, mode Windowed.
+[2023.08.17-01.39.21:784][582]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.21:792][582]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.21:972][591]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=619.265 Y=-25.122 Z=91.500 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.22:830][627]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=1091.412 Y=-25.122 Z=129.132 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.22:998][634]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=1166.180 Y=-25.122 Z=165.573 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.23:640][664]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=1425.872 Y=-25.122 Z=352.299 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.23:806][665]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.23:814][665]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.24:523][701]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=1817.089 Y=-25.122 Z=632.028 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.24:733][711]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=1915.092 Y=-25.122 Z=666.182 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.24:914][719]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2003.521 Y=-25.122 Z=678.183 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.25:095][727]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2091.102 Y=-25.122 Z=673.538 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.25:256][734]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2167.706 Y=-25.122 Z=655.520 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.25:555][747]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2307.751 Y=-25.122 Z=605.776 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.25:824][752]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.25:833][752]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.25:844][753]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2474.549 Y=-25.122 Z=571.210 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.25:912][757]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2504.170 Y=-25.122 Z=567.695 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.26:072][764]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2590.885 Y=-25.122 Z=569.936 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.26:244][772]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2678.050 Y=-25.122 Z=589.546 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.26:412][780]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2756.121 Y=-25.122 Z=623.385 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.26:581][788]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2825.597 Y=-25.122 Z=669.844 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.26:771][797]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2891.755 Y=-25.122 Z=735.036 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.26:922][804]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2934.464 Y=-25.122 Z=795.654 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.27:088][812]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=2970.881 Y=-25.122 Z=869.663 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.27:271][821]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3006.148 Y=-25.122 Z=953.374 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.27:454][830]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3047.795 Y=-25.122 Z=1034.043 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.27:620][838]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3094.271 Y=-25.122 Z=1100.301 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.27:844][842]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.27:855][842]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.27:855][842]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3120.960 Y=-25.122 Z=1130.034 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.27:969][849]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3244.061 Y=-25.122 Z=1227.812 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.28:170][859]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3341.286 Y=-25.122 Z=1273.677 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.28:372][869]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3441.174 Y=-25.122 Z=1295.296 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.28:570][879]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3540.313 Y=-25.122 Z=1295.061 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.29:009][901]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3742.808 Y=-25.122 Z=1223.458 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.29:205][911]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3820.154 Y=-25.122 Z=1167.328 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.29:411][922]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3901.902 Y=-25.122 Z=1104.111 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.29:587][931]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=3974.043 Y=-25.122 Z=1059.955 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.29:865][938]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.29:875][938]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.29:876][938]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4037.277 Y=-25.122 Z=1032.254 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.29:987][945]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4187.545 Y=-25.122 Z=998.943 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.30:144][953]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4272.015 Y=-25.122 Z=997.604 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.30:348][963]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4373.451 Y=-25.122 Z=1016.951 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.30:527][972]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4457.339 Y=-25.122 Z=1052.082 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.30:735][982]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4541.049 Y=-25.075 Z=1108.091 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.30:922][991]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4612.261 Y=-24.396 Z=1167.452 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.31:103][  0]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4681.153 Y=-22.963 Z=1227.825 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.31:303][ 10]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4756.652 Y=-20.586 Z=1294.165 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.31:486][ 19]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4825.158 Y=-17.797 Z=1353.822 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.31:670][ 28]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4894.525 Y=-14.479 Z=1413.473 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.31:886][ 32]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.31:895][ 32]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.31:895][ 32]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=4925.229 Y=-12.885 Z=1439.601 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.32:038][ 41]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5057.142 Y=-18.240 Z=1542.587 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.32:230][ 51]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5137.152 Y=-21.036 Z=1603.824 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.32:419][ 61]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5215.778 Y=-23.186 Z=1663.236 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.32:611][ 71]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5293.831 Y=-24.569 Z=1721.691 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.32:803][ 81]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5371.482 Y=-25.114 Z=1779.565 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.33:263][105]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5556.741 Y=-22.944 Z=1917.872 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.33:472][116]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5636.058 Y=-24.604 Z=1986.516 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.33:686][127]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5704.828 Y=-34.214 Z=2065.610 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.33:905][132]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.33:913][132]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.34:038][140]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5791.959 Y=-72.002 Z=2227.079 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.34:188][148]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5829.903 Y=-87.120 Z=2294.196 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.34:392][159]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5889.771 Y=-101.105 Z=2376.491 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.34:578][169]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=5956.710 Y=-105.467 Z=2441.540 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.34:763][179]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=6031.532 Y=-101.373 Z=2492.798 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.34:947][189]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=6113.296 Y=-89.105 Z=2530.171 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.35:140][200]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=6203.339 Y=-67.920 Z=2552.974 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.35:317][210]LogBlueprintUserMessages: [BP_P38_C_0] Translation: X=6285.295 Y=-42.174 Z=2558.270 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.08.17-01.39.35:673][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.17-01.39.35:673][229]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MyMap
+[2023.08.17-01.39.35:673][229]LogSlate: Window 'UE0811 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.17-01.39.35:679][229]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-01.39.35:680][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-01.39.35:685][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.17-01.39.35:689][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-01.39.35:716][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.17-01.39.35:716][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.17-01.39.35:718][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.17-01.39.35:726][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.08.17-01.39.35:759][230]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.08.17-01.39.35:925][234]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.35:933][234]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.37:949][458]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.37:957][458]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.39:969][675]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.39:978][675]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.41:988][891]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.41:996][891]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.44:005][ 97]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.44:013][ 97]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.45:924][309]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.45:932][309]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.47:943][533]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.47:950][533]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.49:961][748]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.49:969][748]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.51:997][942]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.52:025][942]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.54:030][148]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.54:042][148]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.56:049][362]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.56:061][362]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.39.58:068][578]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.39.58:076][578]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.00:089][795]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.00:100][795]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.02:211][959]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.02:221][959]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.04:232][161]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.04:264][161]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.06:269][367]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.06:290][367]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.08:200][579]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.08:207][579]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.10:225][801]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.10:233][801]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.12:245][  8]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.12:256][  8]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.14:264][191]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.14:272][191]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.16:283][403]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.16:292][403]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.18:203][599]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.18:211][599]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.20:219][824]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.20:226][824]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.22:236][ 18]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.22:244][ 18]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.24:255][240]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.24:262][240]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.26:290][430]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.26:324][430]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.28:314][641]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.28:323][641]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.30:233][856]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.30:240][856]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.32:253][ 83]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.32:263][ 83]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.34:277][294]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.34:286][294]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.36:297][507]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.36:305][507]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.38:317][728]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.38:326][728]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.40:340][948]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.40:348][948]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.42:362][162]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.42:370][162]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.44:398][359]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.44:429][359]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.46:424][573]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.46:435][573]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.48:347][779]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.48:357][779]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.50:384][  0]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.50:406][  0]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.52:411][214]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.52:419][214]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.54:445][431]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.54:462][431]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.56:370][642]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.56:378][642]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.40.58:397][868]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.40.58:404][868]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.00:418][ 88]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.00:426][ 88]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.02:436][305]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.02:443][305]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.04:457][507]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.04:465][507]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.06:478][724]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.06:485][724]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.08:496][938]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.08:504][938]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.10:432][150]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.10:463][150]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.12:454][364]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.12:461][364]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.14:487][559]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.14:534][559]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.16:514][770]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.16:521][770]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.18:532][988]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.18:539][988]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.20:452][204]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.20:464][204]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.22:488][430]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.22:517][430]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.24:511][646]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.24:521][646]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.26:534][867]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.26:542][867]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.28:555][ 83]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.28:562][ 83]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.30:574][293]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.30:583][293]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.32:509][499]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.32:538][499]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.34:535][711]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.34:548][711]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.36:562][929]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.36:570][929]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.38:681][149]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.38:689][149]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.40:601][357]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.40:609][357]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.41:626][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.17-01.41.41:633][479]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.17-01.41.41:634][479]LogPlayLevel: [PlayLevel] Compiling BP_P38 before play...
+[2023.08.17-01.41.41:703][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.17-01.41.41:706][479]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2023.08.17-01.41.41:706][479]PIE: New page: PIE session: MyMap (Aug 17, 2023, 7:41:41 PM)
+[2023.08.17-01.41.41:706][479]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MyMap
+[2023.08.17-01.41.41:707][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001568s)
+[2023.08.17-01.41.41:707][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MyMap.MyMap to /Game/Map/UEDPIE_0_MyMap.MyMap (0.001596s)
+[2023.08.17-01.41.41:707][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.17-01.41.41:708][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.17-01.41.41:708][479]LogAIModule: Creating AISystem for world MyMap
+[2023.08.17-01.41.41:708][479]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.08.17-01.41.41:728][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.08.17-01.41.41:729][479]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.08.17-01.41.41:729][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.17-01.41.41:729][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.17-01.41.41:729][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.17-01.41.41:729][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.17-01.41.41:729][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.17-01.41.41:729][479]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.17-01.41.41:729][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.17-01.41.41:729][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.17-01.41.41:730][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.17-01.41.41:730][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.17-01.41.41:730][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.17-01.41.41:731][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.17-01.41.41:762][479]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.08.17-01.41.41:762][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.17-01.41.41:763][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.17-01.41.41:763][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.17-01.41.41:763][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.08.17-01.41.41:763][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.08.17-01.41.41:765][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.08.17-01.41.41:765][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.08.17-01.41.41:765][479]LogInit: FAudioDevice initialized with ID 5.
+[2023.08.17-01.41.41:765][479]LogAudio: Display: Audio Device (ID: 5) registered with world 'MyMap'.
+[2023.08.17-01.41.41:765][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.17-01.41.41:838][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.17-01.41.41:838][479]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.08.17-01.41.41:839][479]LogWorld: Bringing World /Game/Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2023.08.17-10.41.41
+[2023.08.17-01.41.41:839][479]LogWorld: Bringing up level for play took: 0.000710
+[2023.08.17-01.41.41:841][479]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.08.17-01.41.41:844][479]PIE: Server logged in
+[2023.08.17-01.41.41:844][479]PIE: Play in editor total start time 0.211 seconds.
+[2023.08.17-01.41.41:892][479]LogViewport: Scene viewport resized to 1358x980, mode Windowed.
+[2023.08.17-01.41.42:618][496]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.42:626][496]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.42:638][497]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.43:450][532]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.43:614][539]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.43:795][547]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.43:965][555]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.44:123][562]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.44:306][570]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.44:466][577]LogBlueprintUserMessages: [BP_P38_C_0] Hello
+[2023.08.17-01.41.44:638][579]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.44:646][579]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.44:752][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.17-01.41.44:752][584]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MyMap
+[2023.08.17-01.41.44:753][584]LogSlate: Window 'UE0811 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.17-01.41.44:759][584]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-01.41.44:759][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-01.41.44:761][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.17-01.41.44:766][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-01.41.44:792][584]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.17-01.41.44:792][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.17-01.41.44:794][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.17-01.41.44:803][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.17-01.41.44:835][586]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.08.17-01.41.46:659][785]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.46:667][785]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.48:462][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.17-01.41.48:469][987]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.17-01.41.48:470][987]LogPlayLevel: [PlayLevel] Compiling BP_P38 before play...
+[2023.08.17-01.41.48:544][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.08.17-01.41.48:546][987]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2023.08.17-01.41.48:546][987]PIE: New page: PIE session: MyMap (Aug 17, 2023, 7:41:48 PM)
+[2023.08.17-01.41.48:546][987]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_MyMap
+[2023.08.17-01.41.48:548][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001503s)
+[2023.08.17-01.41.48:548][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/MyMap.MyMap to /Game/Map/UEDPIE_0_MyMap.MyMap (0.001528s)
+[2023.08.17-01.41.48:548][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.17-01.41.48:548][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.17-01.41.48:548][987]LogAIModule: Creating AISystem for world MyMap
+[2023.08.17-01.41.48:548][987]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2023.08.17-01.41.48:569][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.08.17-01.41.48:569][987]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.08.17-01.41.48:569][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.17-01.41.48:569][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.17-01.41.48:569][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.17-01.41.48:569][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.17-01.41.48:569][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.17-01.41.48:569][987]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.17-01.41.48:569][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.17-01.41.48:569][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.17-01.41.48:570][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.17-01.41.48:570][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.17-01.41.48:570][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.17-01.41.48:572][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.17-01.41.48:602][987]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2023.08.17-01.41.48:602][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.17-01.41.48:602][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.17-01.41.48:602][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.17-01.41.48:604][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.08.17-01.41.48:604][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.08.17-01.41.48:605][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.08.17-01.41.48:605][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.08.17-01.41.48:605][987]LogInit: FAudioDevice initialized with ID 6.
+[2023.08.17-01.41.48:605][987]LogAudio: Display: Audio Device (ID: 6) registered with world 'MyMap'.
+[2023.08.17-01.41.48:605][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.17-01.41.48:667][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.17-01.41.48:667][987]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.08.17-01.41.48:667][987]LogWorld: Bringing World /Game/Map/UEDPIE_0_MyMap.MyMap up for play (max tick rate 0) at 2023.08.17-10.41.48
+[2023.08.17-01.41.48:668][987]LogWorld: Bringing up level for play took: 0.000660
+[2023.08.17-01.41.48:670][987]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.08.17-01.41.48:673][987]PIE: Server logged in
+[2023.08.17-01.41.48:674][987]PIE: Play in editor total start time 0.205 seconds.
+[2023.08.17-01.41.48:721][987]LogViewport: Scene viewport resized to 1360x980, mode Windowed.
+[2023.08.17-01.41.48:994][989]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.49:017][989]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.50:917][ 66]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.50:924][ 66]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.52:936][153]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.52:945][153]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.54:433][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.17-01.41.54:433][218]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_MyMap
+[2023.08.17-01.41.54:434][218]LogSlate: Window 'UE0811 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.17-01.41.54:437][218]LogWorld: UWorld::CleanupWorld for MyMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.17-01.41.54:437][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-01.41.54:439][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.17-01.41.54:447][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.17-01.41.54:473][218]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.17-01.41.54:473][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.17-01.41.54:475][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.17-01.41.54:485][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.08.17-01.41.54:500][219]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.08.17-01.41.54:954][254]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.54:962][254]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.56:006][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.17-01.41.56:131][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P38/Blueprint/BP_P38" FILE="../../../../../../Work/UE_Study/airplane/Content/P38/Blueprint/BP_P38.uasset" SILENT=true
+[2023.08.17-01.41.56:139][379]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.007740 seconds
+[2023.08.17-01.41.56:148][379]LogSerialization: UsePackageTrailer: 'true'
+[2023.08.17-01.41.56:154][379]LogSavePackage: Moving output files for package: /Game/P38/Blueprint/BP_P38
+[2023.08.17-01.41.56:154][379]LogSavePackage: Moving '../../../../../../Work/UE_Study/airplane/Saved/BP_P382CC729E94C5F2A496B11D999E6874BF3.tmp' to '../../../../../../Work/UE_Study/airplane/Content/P38/Blueprint/BP_P38.uasset'
+[2023.08.17-01.41.56:162][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms
+[2023.08.17-01.41.56:169][379]AssetCheck: New page: Asset Save: BP_P38
+[2023.08.17-01.41.56:169][379]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/P38/Blueprint/BP_P38.BP_P38
+[2023.08.17-01.41.56:972][456]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.56:980][456]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.41.59:000][482]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.41.59:148][482]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.42.01:019][488]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.42.01:149][488]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.42.02:933][494]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.42.03:150][494]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.42.04:955][500]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.42.05:150][500]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.17-01.42.06:975][506]LogUdpMessaging: Display: Added local interface '172.16.2.97' to multicast group '230.0.0.1:6666'
+[2023.08.17-01.42.07:151][506]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
